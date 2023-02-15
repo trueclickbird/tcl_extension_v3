@@ -1,5 +1,6 @@
 {
     "name": "TCL_extension_V3",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
